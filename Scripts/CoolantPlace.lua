@@ -20,6 +20,6 @@ function getCoolant()
     me.requestItems(db.get(1), 1)
 end
 
-function putCoolant()
+#function putCoolant()
 
-end
+#end
